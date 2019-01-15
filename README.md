@@ -10,12 +10,12 @@ Camera calibration is a common problem in Computer vision. We implemented a came
 6. After that I constructed our P matrix (see the PDF file for details)
 7. Lastly I used SVD to get the m matrix that will be used to find the intrinsic and extrinsic parameters.
 
-# Camera Calibration Toolbox for MATLAB 
+### Camera Calibration Toolbox for MATLAB 
 
 I installed the calibration toolbox for MATLAB for comparison purposes. Actually I got reasonable results with this software.
 Toolbox Link: http://www.vision.caltech.edu/bouguetj/calib_doc/
 
-# Equations and Procedure Details
+### Equations and Procedure Details
 
 Actually the procedure above is a summary of my work. All the steps are explained detailly in my report:
 Camera Calibration Report for all details: https://github.com/alaattinyilmaz/camera-calibration/blob/master/CameraCalibration.pdf
