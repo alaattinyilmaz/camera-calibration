@@ -19,6 +19,7 @@ Toolbox Link: http://www.vision.caltech.edu/bouguetj/calib_doc/
 ### Equations and Procedure Details
 
 Actually the procedure above is a summary of my work. All the steps are explained detailly in my report:
+
 Camera Calibration Report for all details: https://github.com/alaattinyilmaz/camera-calibration/blob/master/CameraCalibration.pdf
 
 ### Calibration Object
