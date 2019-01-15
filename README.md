@@ -12,7 +12,8 @@ Camera calibration is a common problem in Computer vision. We implemented a came
 
 ### Camera Calibration Toolbox for MATLAB 
 
-I installed the calibration toolbox for MATLAB for comparison purposes. Actually I got reasonable results with this software.
+In this section of the lab, we will use a MATLAB toolbox to calibrate our camera. I took 20 photos of a checkerboard from different angles and load them into the toolbox. Then, we manually plotted the coordinate plane and toolbox automatically detected the corners in the each image. Actually, we applied this steps on all of 20 images. (details are explained in my report)
+
 Toolbox Link: http://www.vision.caltech.edu/bouguetj/calib_doc/
 
 ### Equations and Procedure Details
