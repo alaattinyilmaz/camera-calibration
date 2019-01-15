@@ -3,4 +3,4 @@ Camera calibration is a common problem in Computer vision. We implemented a came
 
 
 Calibration Object
-![Calibration Object](https://raw.githubusercontent.com/alaattinyilmaz/camera-calibration/master/calobject.jpg?raw=true){:height="24px" width="48px"}
+![Calibration Object](https://raw.githubusercontent.com/alaattinyilmaz/camera-calibration/master/calobject.jpg?raw=true)
